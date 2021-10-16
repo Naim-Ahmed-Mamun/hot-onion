@@ -1,0 +1,20 @@
+.placeOrder_wrapper{
+    padding: 150px 0 0;
+}
+.cart_item ul{
+    padding: 0;
+}
+.cart_item ul li{
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--heading-color);
+}
+.placeOrder_btn{
+    width: 200px;
+    padding: 8px 18px;
+    background: #CECECE;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
